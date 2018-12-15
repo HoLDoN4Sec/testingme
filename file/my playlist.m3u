@@ -1,0 +1,139 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/0/0b/Arutz_9_Logo.png", ערוץ 9 - ישראל פלוס
+http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/5/56/Kan11svg.svg/1200px-Kan11svg.svg.png", ערוץ 11 - כאן 11 
+http://82.80.192.2:1935/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/chunklist_w652207045_b1928000.m3u8
+#EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/published/keshet12.png",ערוץ 12 - קשת 
+http://l1.isramedia.net:1935/chan/smil:12mol.smil/chunklist_w638278207_b500000_tkdG9rZW5zdGFydHRpbWU9MTUxNDExMzU0NSZ0b2tlbmVuZHRpbWU9MTUxNDExNzE0NSZ0b2tlbmhhc2g9NFN5TERLV2RuQk84VkprTkh0eDJmdkVLcDJiR0dPS005Sms3bTVhOURaMD0=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Keshet_12_logo.png",ערוץ 12 - קשת המיטב 
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/9/91/Reshet13.svg/1280px-Reshet13.svg.png",ערוץ 13 - רשת
+http://besttv10.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1140px-Arutzeser.svg.png",ערוץ 14 - ערוץ10
+http://nana10-hdl-uk-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/chunklist_b2400000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/479px-Arutz_20.svg.png",ערוץ 20
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.new4u.co.il/wp-content/uploads/2017/07/לוגו-ערוץ-הקניות.jpg",ערוץ 21 - ערוץ הקניות
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w755357027_b2128000.m3u8?ttl=1479061599&cdn_token=10b3bd30fe2f4d02d4c668a67c4de3ef
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/4/40/Logo_knesset_channel.png",ערוץ 99 - ערוץ הכנסת 
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/chunklist_w1469259791.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mbQY5Ig.png",Yes 1
+http://192.99.18.85:1935/live/yesmovies1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hCFZC5I.png",Yes 4
+http://192.99.18.85:1935/live/yesmovies4/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uUoQ8ps.png",Yes Oh.
+http://192.99.18.85:1935/live/yesmovies2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/1200px-2015_Disney_Channel_logo.svg.png",Disney
+http://192.99.18.85:1935/live/disney/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://turkeymanexpo.com/wp-content/uploads/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png",Hunt Channel
+https://nimble.huntchannel.tv/abr/huntchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",Deutsche Welle EN Channel
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png",NASA TV -OFFLINE
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
+#EXTINF:-1 tvg-id="Insight HD" group-title="Entertainment - בידור" tvg-logo="https://i.imgur.com/DRrcP6F.png",Insight HD
+http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/index_5128_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Russian Today: Documentary" tvg-name="Russian_Today:_Documentary" group-title="Science & nature - מדע וטבע" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7b/Russia_Today_3.PNG/revision/latest?cb=20150209134958",Russia Today: Documentary
+https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
+#EXTINF:-1 tvg-id="BYUtv" tvg-name="BYUtv" group-title="Entertainment - בידור" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png",byutv
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF:-1 tvg-id="Insight HD" group-title="Entertainment - בידור" tvg-logo="https://i.imgur.com/vjY2pee.png",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434-b/3083279840001/master.m3u8
+#EXTINF:-1 tvg-id="CBN" tvg-name="CBN" group-title="Entertainment - בידור" tvg-logo="https://i.imgur.com/OBOTUuy.png",CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3575741462001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g6KiuuW.png",Dubai One Movies
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8
+#EXTINF:-1 tvg-id="AMGTV" tvg-name="AMGTV" group-title="Entertainment - בידור" tvg-logo="http://static.ontvtonight.com/static/2/Open/400x300_1845/Source/23077/AMG.png",AMGTV
+rtmp://cp212391.live.edgefcs.net/live/T02027-amgtv@120244 swfUrl=http://vp.telvue.com/extra/jwplayer.swf swfVfy=1 live=1 pageUrl=http://vp.telvue.com/player?id=T02027&video=57269&mini=1&autoplay=true timeout=15
+#EXTINF:-1 tvg-id="Retro music TV" tvg-name="Retro_music_TV" group-title="Music - מוזיקה" tvg-logo="https://i.imgur.com/IkIwhpK.pngg",RETRO Music TV
+rtmp://stream.mediawork.cz/retrotv/ playpath=retrotvHQ1 swfUrl=http://vjs.zencdn.net/4.10/video-js.swf pageUrl=http://www.retromusic.cz/index.php?language=en
+#EXTINF:-1 tvg-id="Vox Old's Cool TV" group-title="Music - מוזיקה" tvg-logo="https://i.imgur.com/25i9fTz.png",Vox olds cool TV
+rtmp://stream.smcdn.pl/vox-t/vox_720p
+#EXTINF:-1 tvg-id="music Vox TV" group-title="Music - מוזיקה" tvg-logo="https://i.imgur.com/OeBhZPR.png",music Vox TV
+rtmp://stream.smcdn.pl/vox2-p/stream1
+#EXTINF:-1 tvg-id="Stars TV" tvg-name="Stars_TV" group-title="Music - מוזיקה" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/StarsTV.png",Stars TV
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8
+#EXTINF:-1 tvg-id="eska party" group-title="Music - מוזיקה" tvg-logo="https://i.imgur.com/M9ViJAm.png",eska Party
+rtmp://stream.smcdn.pl/eska_party-t/eska_party_720p
+#EXTINF:-1 tvg-id="eska best Music" group-title="Music - מוזיקה" tvg-logo="https://i.imgur.com/BIYmUPp.png",eska Best Music
+rtmp://stream.smcdn.pl/best-t/best_720p
+#EXTINF:-1 tvg-id="Vibee.tv" tvg-name="Vibee.tv" group-title="Music - מוזיקה" tvg-logo="https://s5.postimg.org/44kt9h6fb/vibeelogotvtv.png",Vibee.tv
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1 tvg-id="Virgin TV" group-title="Music - מוזיקה" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/VirginRadio.png",Virgin TV
+rtmp://fms.105.net:1935/live/ playpath=virgin1 swfUrl=http://www.widih.org/player.swf pageUrl=http://www.widih.org/watch-tv/357/virgin-1 live=1 timeout=10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VDFiRu9.png",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8FEr2L.png",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="HIT TV" tvg-name="HIT_TV" group-title="Music - מוזיקה" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Hit-TV.png",HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VaGNevM.png",NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+#EXTINF:-1 tvg-id="ONE By HD 1080P" group-title="Music - מוזיקה" tvg-logo="https://i.imgur.com/DgDGldk.png",ONE By HD
+http://rtmp.one.by:1300/
+#EXTINF:-1 tvg-id="Zougla HD" tvg-name="Zougla_HD" group-title="Music - מוזיקה" tvg-logo="https://lh3.googleusercontent.com/o02WzGpFZ-Vzu1rtbWKMhg3DOJxSWjKaPJa8t7lvJOEBtY4gDvQmy3YF-_pdloR4ZQ",Zougla TV Music
+http://zglive1.mdc.akamaized.net/hls/live/570950/z1/master.m3u8
+#EXTINF:-1 tvg-id="CMC TV country" group-title="Music - מוזיקה" tvg-logo="https://i.imgur.com/EfN95sV.png",California Music Channel
+rtmp://cmctv.flash.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV live=1 pageUrl=http://www.cmc-tv.com/
+#EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Purple3/v4/72/a0/3e/72a03e01-c001-13bf-9d52-416102e5599f/source/1200x630bb.jpg",Krone TV DE
+http://bitcdn-kronehit-live.bitmovin.com/hls/1500k/bitcodin.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png",XITE Music DE
+http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist_w1167602799.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png",Clubbing TV
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/clubbingtv-mobile.3gp.m3u8
+#EXTINF:-1 tvg-id="m2o TV" group-title="Music - מוזיקה" tvg-logo="http://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Logo_m2o_%282012%29.png/200px-Logo_m2o_%282012%29.png",m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg",DjinG HD 
+http://www.djing.com/tv/h-05.m3u8
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg",DjinG Ibiza HD
+https://www.djinG.com/tv/d-27872-05.m3u8
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg",DjinG Classics HD 
+https://www.djing.com/tv/i-27872-05.m3u8
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg",DjinG Animation HD 
+https://www.djing.com/tv/a-27872-05.m3u8
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg",DjinG Underground HD 
+https://www.djing.com/tv/u-27872-05.m3u8
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg",DjinG Summer Vibes HD 
+https://www.djing.com/tv/s-27872-05-summer-vibes.m3u8
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg",DjinG Electro Rock HD 
+https://www.djing.com/tv/s-27872-04-electro-rock.m3u8
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg",DjinG French Touch HD 
+https://www.djing.com/tv/s-27872-05-french-touch.m3u8
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg",DjinG Karaoke HD 
+https://www.djing.com/tv/k-27872-05.m3u8
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg",DjinG Hedonist HD 
+https://www.djing.com/tv/s-27872-04-hedonist.m3u8
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg",DjinG Wild Music HD 
+https://www.djing.com/tv/s-27872-05-wild-edm.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/993px-MLBNetworkLogo.svg.png",MLB Network HD
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Friday_20171222_1513963187165/3000K/3000_slide.m3u8
+#EXTINF:-1 tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png",Red Bull TV HD
+https://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_3360.m3u8
+#EXTINF:-1 tvg-logo="http://www.theinvestigativefund.org/wp-content/uploads/2017/08/logo_abc_news.png",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1 tvg-id="ABC NEWS australia" tvg-name="ABC_NEWS_australia" group-title="News - חדשות" tvg-logo="http://www.abc.net.au/cm/lb/5340830/data/news-logo-data.png",ABC News Australia
+http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.cbspressexpress.com/images/releases/docimages/1513/427738-239127/57cea53d764f638c9adb92df15004dfd.png",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="sky news" group-title="News - חדשות" tvg-logo="https://www.skymedia.ie/wp-content/uploads/sites/4/2016/01/channel-logo-sky-news.png",sky news
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 tvg-id="MSNBC" group-title="News - חדשות" tvg-logo="http://www.msnbc.com/sites/msnbc/themes/leanforward/images/site-header/msnbc-logo-card-twitter.png",MSNBC HD
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.msnbc.com/sites/msnbc/themes/leanforward/images/site-header/msnbc-logo-card-twitter.png",MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_796_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png",CNN Channel
+http://109.123.114.178:1935/Livenewson/Livenewson19/chunklist_w2096447996.m3u8
+#EXTINF:-1 tvg-logo="https://www.firepro.com/uploads/gallery/Bloomberg_logo.svg.png",Bloomberg
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/I24_logo_FINAL_BLUE-02.png/1200px-I24_logo_FINAL_BLUE-02.png",i24 News English
+http://stream-13.dc3.dailymotion.com/34/dm/3/x29atae/live-4.m3u8
+#EXTINF:-1 tvg-id="Russia Today America" tvg-name="Russia_Today_America" group-title="News - חדשות" tvg-logo="https://yt3.ggpht.com/-iiWwxqdYLmw/AAAAAAAAAAI/AAAAAAAAAAA/XteKb4iwAxQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Russia Today USA
+https://secure-streams.akamaized.net/rt-usa/index2500.m3u8
+#EXTINF:-1 tvg-id="NewsMAX" tvg-name="NewsMAX" group-title="News - חדשות" tvg-logo="http://2.bp.blogspot.com/-RPNX7uwk0SU/UydoGC79PPI/AAAAAAAAAYE/9HT83LRj0DE/s1600/NewsmaxTV+Logo.jpg",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 tvg-id="RTE News" tvg-name="RTE_News" group-title="News - חדשות" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/02/rte_news_now-640x118.jpg",RTE News Now
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="France24 English" group-title="News - חדשות" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png",The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8?sd=10&rebase=on
